@@ -1,11 +1,17 @@
 h1{
     color: blue;
-    font-size: 30px;
 }
-p{
+h1:hover{
     color: red;
 }
 a{
-    color: pink;
+    color: black;
+}
+a:hover{
+    color: red;
+    font-size: 20px;
+}
+a:active{
+    color: blue;
 }
 
