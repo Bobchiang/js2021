@@ -2,10 +2,10 @@ h1{
     color: blue;
     font-size: 30px;
 }
-h1{
+p{
     color: red;
 }
-選擇器{
-    屬性: 設定值;
-    屬性: 設定值;
+a{
+    color: pink;
 }
+
